@@ -301,19 +301,16 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2009
 - **Monte Carlo Tree Search Techniques in the Game of Kriegspiel (IJCAI 2009)**
   - Paolo Ciancarini, Gian Piero Favini
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI-09/paper/viewFile/396/693)
 
 - **Bootstrapping from Game Tree Search (NIPS 2009)**
   - Joel Veness, David Silver, William T. B. Uther, Alan Blair
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/3722-bootstrapping-from-game-tree-search)
 
 ## 2008
-- **Direct mining of discriminative and essential frequent patterns via model-based search tree (KDD 2008)**
+- **Direct Mining of Discriminative and Essential Frequent Patterns via Model-Based Search Tree (KDD 2008)**
   - Wei Fan, Kun Zhang, Hong Cheng, Jing Gao, Xifeng Yan, Jiawei Han, Philip S. Yu, Olivier Verscheure
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www1.se.cuhk.edu.hk/~hcheng/paper/kdd08mbt.pdf)
   
 ## 2007
 - **Bandit Algorithms for Tree Search (UAI 2007)**
