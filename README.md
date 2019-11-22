@@ -329,8 +329,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Graph Branch Algorithm: An Optimum Tree Search Method for Scored Dependency Graph with Arc Co-Occurrence Constraints (ACL 2006)**
   - Hideki Hirakawa
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aclweb.org/anthology/P06-2047/)
 
 ## 2005
 - **Game-Tree Search with Combinatorially Large Belief States (IJCAI 2005)**
