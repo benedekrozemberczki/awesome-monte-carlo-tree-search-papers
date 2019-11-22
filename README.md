@@ -360,10 +360,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 1998
 - **KnightCap: A Chess Programm That Learns by Combining TD with Game-Tree Search (ICML 1998)**
   - Jonathan Baxter, Andrew Tridgell, Lex Weaver
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/cs/9901002)
 
 ## 1988
-- **A tree search algorithm for target detection in image sequences (CVPR 1988)**
+- **A Tree Search Algorithm for Target Detection in Image Sequences (CVPR 1988)**
   - Steven D. Blostein, Thomas S. Huang
   - [[Paper]](https://ieeexplore.ieee.org/document/196309)
