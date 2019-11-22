@@ -4,7 +4,7 @@
   <img width="600" src="tree.png">
 </p>
 
-A curated list of gradient and adaptive boosting papers with implementations from the following conferences:
+A curated list of tree search papers with implementations from the following conferences:
 
 - Machine learning
    * [NeurIPS](https://nips.cc/) 
