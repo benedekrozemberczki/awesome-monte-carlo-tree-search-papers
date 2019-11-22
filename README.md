@@ -410,7 +410,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
 
-## 2002
 ## 2001
 - **Incomplete Tree Search using Adaptive Probing (IJCAI 2001)**
   - Wheeler Ruml
