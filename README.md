@@ -333,11 +333,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Code]]( )
 
 ## 2005
-
 - **Game-Tree Search with Combinatorially Large Belief States (IJCAI 2005)**
   - Austin Parker, Dana S. Nau, V. S. Subrahmanian
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/05/Papers/0878.pdf)
 
 ## 2003
 - **Solving Finite Domain Constraint Hierarchies by Local Consistency and Tree Search (IJCAI 2003)**
