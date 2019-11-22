@@ -348,8 +348,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2001
 - **Incomplete Tree Search using Adaptive Probing (IJCAI 2001)**
   - Wheeler Ruml
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dash.harvard.edu/bitstream/handle/1/23017275/tr-02-01.pdf?sequence%3D1)
 
 ## 1998
 - **KnightCap: A Chess Programm That Learns by Combining TD with Game-Tree Search (ICML 1998)**
