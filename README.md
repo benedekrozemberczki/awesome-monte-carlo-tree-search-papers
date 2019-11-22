@@ -366,5 +366,4 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 1988
 - **A tree search algorithm for target detection in image sequences (CVPR 1988)**
   - Steven D. Blostein, Thomas S. Huang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/196309)
