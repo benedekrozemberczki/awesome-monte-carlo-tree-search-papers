@@ -223,11 +223,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
 
-- **SETS: Scalable and Efficient Tree Search in Dependency Graphs (NAACL 2015)**
-  - Juhani Luotolahti, Jenna Kanerva, Sampo Pyysalo, Filip Ginter
-  - [[Paper]]( )
-  - [[Code]]( )
-
 ## 2014
 - **State Aggregation in Monte Carlo Tree Search (AAAI 2014)**
   - Jesse Hostetler, Alan Fern, Tom Dietterich
@@ -245,28 +240,14 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Code]]( )
 
 ## 2013
-- **G-tree: an efficient index for KNN search on road networks (CIKM 2013)**
-  - Ruicheng Zhong, Guoliang Li, Kian-Lee Tan, Lizhu Zhou
-  - [[Paper]]( )
-  - [[Code]]( )
 
 - **Monte Carlo Tree Search for Scheduling Activity Recognition (ICCV 2013)**
   - Mohamed R. Amer, Sinisa Todorovic, Alan Fern, Song-Chun Zhu
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Succinct interval-splitting tree for scalable similarity search of compound-protein pairs with property constraints (KDD 2013)**
-  - Yasuo Tabei, Akihiro Kishimoto, Masaaki Kotera, Yoshihiro Yamanishi
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **Convergence of Monte Carlo Tree Search in Simultaneous Move Games (NIPS 2013)**
   - Viliam Lisý, Vojtech Kovarík, Marc Lanctot, Branislav Bosanský
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Which Space Partitioning Tree to Use for Search (NIPS 2013)**
-  - Parikshit Ram, Alexander G. Gray
   - [[Paper]]( )
   - [[Code]]( )
 
@@ -281,19 +262,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Maximum inner-product search using cone trees (KDD 2012)**
-  - Parikshit Ram, Alexander G. Gray
-  - [[Paper]]( )
-  - [[Code]]( )
-
 ## 2011
 - **A Local Monte Carlo Tree Search Approach in Deterministic Planning (AAAI 2011)**
   - Fan Xie, Hootan Nakhost, Martin Müller
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Skynets: searching for minimum trees in graphs with incomparable edge weights (CIKM 2011)**
-  - Huiping Cao, K. Selçuk Candan, Maria Luisa Sapino
   - [[Paper]]( )
   - [[Code]]( )
 
@@ -302,10 +273,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
 
-- **The Increasing Cost Tree Search for Optimal Multi-Agent Pathfinding (IJCAI 2011)**
-  - Guni Sharon, Roni Stern, Meir Goldenberg, Ariel Felner
-  - [[Paper]]( )
-  - [[Code]]( )
 
 - **Nested Rollout Policy Adaptation for Monte Carlo Tree Search (IJCAI 2011)**
   - Christopher D. Rosin
@@ -322,29 +289,14 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Parallel boosted regression trees for web search ranking (WWW 2011)**
-  - Stephen Tyree, Kilian Q. Weinberger, Kunal Agrawal, Jennifer Paykin
-  - [[Paper]]( )
-  - [[Code]]( )
-
 ## 2010
 - **Understanding the Success of Perfect Information Monte Carlo Sampling in Game Tree Search (AAAI 2010)**
   - Jeffrey Richard Long, Nathan R. Sturtevant, Michael Buro, Timothy Furtak
   - [[Paper]]( )
   - [[Code]]( )
 
-- **BP-tree: an efficient index for similarity search in high-dimensional metric spaces (CIKM 2010)**
-  - Jurandy Almeida, Ricardo da Silva Torres, Neucimar Jerônimo Leite
-  - [[Paper]]( )
-  - [[Code]]( )
-
 - **Bayesian Inference in Monte-Carlo Tree Search (UAI 2010)**
   - Gerald Tesauro, V. T. Rajan, Richard Segal
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **The paths more taken: matching DOM trees to search logs for accurate webpage clustering (WWW 2010)**
-  - Deepayan Chakrabarti, Rupesh R. Mehta
   - [[Paper]]( )
   - [[Code]]( )
 
@@ -383,10 +335,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Code]]( )
 
 ## 2005
-- **Exact match search in sequence data using suffix trees (CIKM 2005)**
-  - Mihail Halachev, Nematollaah Shiri, Anand Thamildurai
-  - [[Paper]]( )
-  - [[Code]]( )
 
 - **Game-Tree Search with Combinatorially Large Belief States (IJCAI 2005)**
   - Austin Parker, Dana S. Nau, V. S. Subrahmanian
