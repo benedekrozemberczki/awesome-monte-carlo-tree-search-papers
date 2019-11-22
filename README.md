@@ -351,12 +351,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
 
-## 2000
-- **An empirical analysis of techniques for constructing and searching k-dimensional trees (KDD 2000)**
-  - Douglas A. Talbert, Douglas H. Fisher
-  - [[Paper]]( )
-  - [[Code]]( )
-
 ## 1998
 - **KnightCap: A Chess Programm That Learns by Combining TD with Game-Tree Search (ICML 1998)**
   - Jonathan Baxter, Andrew Tridgell, Lex Weaver
