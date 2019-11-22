@@ -61,13 +61,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Monte Carlo Tree Search for Policy Optimization (IJCAI 2019)**
   - Xiaobai Ma, Katherine Rose Driggs-Campbell, Zongzhang Zhang, Mykel J. Kochenderfer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2019/0432.pdf)
 
 - **Subgoal-Based Temporal Abstraction in Monte-Carlo Tree Search (IJCAI 2019)**
   - Thomas Gabor, Jan Peter, Thomy Phan, Christian Meyer, Claudia Linnhoff-Popien
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2019/0772.pdf)
+  - [[Code]](https://github.com/jnptr/subgoal-mcts)
 
 - **Automated Machine Learning with Monte-Carlo Tree Search (IJCAI 2019)**
   - Herilalaina Rakotoarison, Marc Schoenauer, Michèle Sebag
