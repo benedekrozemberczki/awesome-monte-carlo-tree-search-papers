@@ -70,13 +70,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Automated Machine Learning with Monte-Carlo Tree Search (IJCAI 2019)**
   - Herilalaina Rakotoarison, Marc Schoenauer, Michèle Sebag
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2019/0457.pdf)
+  - [[Code]](https://github.com/herilalaina/mosaic_ml)
 
 - **Multiple Policy Value Monte Carlo Tree Search (IJCAI 2019)**
   - Li-Cheng Lan, Wei Li, Ting-Han Wei, I-Chen Wu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2019/0653.pdf)
 
 ## 2018
 - **Memory-Augmented Monte Carlo Tree Search (AAAI 2018)**
