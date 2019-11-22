@@ -41,8 +41,8 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2019
 - **ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search (AAAI 2019)**
   - Shangtong Zhang, Hengshuai Yao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1811.02696)
+  - [[Code]](https://github.com/ShangtongZhang/DeepRL)
 
 - **A Monte Carlo Tree Search Player for Birds of a Feather Solitaire (AAAI 2019)**
   - Christian Roberson, Katarina Sperduto
