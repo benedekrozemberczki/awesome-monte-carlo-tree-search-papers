@@ -318,14 +318,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2007
 - **Bandit Algorithms for Tree Search (UAI 2007)**
   - Pierre-Arnaud Coquelin, Rémi Munos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/pdf/1408.2028.pdf)
 
 ## 2006
 - **Properties of Forward Pruning in Game-Tree Search (AAAI 2006)**
   - Yew Jin Lim, Wee Sun Lee
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=1597351)
 
 - **Graph Branch Algorithm: An Optimum Tree Search Method for Scored Dependency Graph with Arc Co-Occurrence Constraints (ACL 2006)**
   - Hideki Hirakawa
