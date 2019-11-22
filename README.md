@@ -364,17 +364,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Wei Fan, Kun Zhang, Hong Cheng, Jing Gao, Xifeng Yan, Jiawei Han, Philip S. Yu, Olivier Verscheure
   - [[Paper]]( )
   - [[Code]]( )
-
-- **Race: finding and ranking compact connected trees for keyword proximity search over xml documents (WWW 2008)**
-  - Guoliang Li, Jianhua Feng, Jianyong Wang, Bei Yu, Yukai He
-  - [[Paper]]( )
-  - [[Code]]( )
-
-- **Genealogical trees on the web: a search engine user perspective (WWW 2008)**
-  - Ricardo Baeza-Yates, Álvaro R. Pereira Jr., Nivio Ziviani
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  
 ## 2007
 - **Bandit Algorithms for Tree Search (UAI 2007)**
   - Pierre-Arnaud Coquelin, Rémi Munos
@@ -422,7 +412,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Code]]( )
 
 ## 1998
-- **KnightCap: A Chess Programm That Learns by Combining TD%28lambda%29 with Game-Tree Search (ICML 1998)**
+- **KnightCap: A Chess Programm That Learns by Combining TD with Game-Tree Search (ICML 1998)**
   - Jonathan Baxter, Andrew Tridgell, Lex Weaver
   - [[Paper]]( )
   - [[Code]]( )
