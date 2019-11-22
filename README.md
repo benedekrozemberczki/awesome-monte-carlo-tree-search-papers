@@ -342,8 +342,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2003
 - **Solving Finite Domain Constraint Hierarchies by Local Consistency and Tree Search (IJCAI 2003)**
   - Stefano Bistarelli, Philippe Codognet, Kin Chuen Hui, Jimmy Ho-Man Lee
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/03/Papers/200.pdf)
 
 ## 2001
 - **Incomplete Tree Search using Adaptive Probing (IJCAI 2001)**
