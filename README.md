@@ -46,8 +46,8 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **A Monte Carlo Tree Search Player for Birds of a Feather Solitaire (AAAI 2019)**
   - Christian Roberson, Katarina Sperduto
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/5036)
+  - [[Code]](http://cs.gettysburg.edu/~tneller/puzzles/boaf/)
 
 - **Vine copula structure learning via Monte Carlo tree search (AISTATS 2019)**
   - Bo Chang, Shenyi Pan, Harry Joe
