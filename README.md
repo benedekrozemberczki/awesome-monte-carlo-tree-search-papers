@@ -293,7 +293,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Code]]( )
 
 - **Skynets: searching for minimum trees in graphs with incomparable edge weights (CIKM 2011)**
-  - Huiping Cao, K. Selçuk Candan, Maria Luisa Sapino, <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fdblp.org%3Aconf/cikm/TretyakovAGVD11&amp;
+  - Huiping Cao, K. Selçuk Candan, Maria Luisa Sapino
   - [[Paper]]( )
   - [[Code]]( )
 
