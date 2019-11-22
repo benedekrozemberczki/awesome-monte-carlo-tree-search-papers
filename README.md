@@ -422,7 +422,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
 
-## 1999
 ## 1998
 - **KnightCap: A Chess Programm That Learns by Combining TD%28lambda%29 with Game-Tree Search (ICML 1998)**
   - Jonathan Baxter, Andrew Tridgell, Lex Weaver
