@@ -49,15 +49,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/5036)
   - [[Code]](http://cs.gettysburg.edu/~tneller/puzzles/boaf/)
 
-- **Vine copula structure learning via Monte Carlo tree search (AISTATS 2019)**
+- **Vine Copula Structure Learning via Monte Carlo Tree Search (AISTATS 2019)**
   - Bo Chang, Shenyi Pan, Harry Joe
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://proceedings.mlr.press/v89/chang19a/chang19a.pdf)
+  - [[Code]](https://github.com/changebo/Vine_MCTS)
 
 - **Noisy Blackbox Optimization using Multi-fidelity Queries: A Tree Search Approach (AISTATS 2019)**
   - Rajat Sen, Kirthevasan Kandasamy, Sanjay Shakkottai
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1810.10482)
+  - [[Code]](https://github.com/rajatsen91/MFTREE_DET)
 
 - **Monte Carlo Tree Search for Policy Optimization (IJCAI 2019)**
   - Xiaobai Ma, Katherine Rose Driggs-Campbell, Zongzhang Zhang, Mykel J. Kochenderfer
