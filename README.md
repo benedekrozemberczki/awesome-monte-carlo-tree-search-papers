@@ -27,8 +27,6 @@ A curated list of tree search papers with implementations from the following con
    * [PKDD/ECML](http://ecmlpkdd2019.org)
    * [RECSYS](https://recsys.acm.org/)
    * [SIGIR](https://sigir.org/)
-   * [WWW](https://www2019.thewebconf.org/)
-   * [WSDM](www.wsdm-conference.org) 
 - Artificial intelligence
    * [AAAI](https://www.aaai.org/)
    * [AISTATS](https://www.aistats.org/)
