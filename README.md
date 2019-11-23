@@ -20,13 +20,6 @@ A curated list of tree search papers with implementations from the following con
    * [EMNLP](https://www.emnlp-ijcnlp2019.org/) 
 - Data
    * [KDD](https://www.kdd.org/)
-   * [CIKM](http://www.cikmconference.org/)   
-   * [ICDM](http://icdm2019.bigke.org/)
-   * [SDM](https://www.siam.org/Conferences/CM/Conference/sdm19)   
-   * [PAKDD](http://pakdd2019.medmeeting.org)
-   * [PKDD/ECML](http://ecmlpkdd2019.org)
-   * [RECSYS](https://recsys.acm.org/)
-   * [SIGIR](https://sigir.org/)
 - Artificial intelligence
    * [AAAI](https://www.aaai.org/)
    * [AISTATS](https://www.aistats.org/)
