@@ -290,13 +290,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2010
 - **Understanding the Success of Perfect Information Monte Carlo Sampling in Game Tree Search (AAAI 2010)**
   - Jeffrey Richard Long, Nathan R. Sturtevant, Michael Buro, Timothy Furtak
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/011e/2c79575721764c127e210c9d8105a6305e70.pdf)
 
 - **Bayesian Inference in Monte-Carlo Tree Search (UAI 2010)**
   - Gerald Tesauro, V. T. Rajan, Richard Segal
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1203.3519)
 
 ## 2009
 - **Monte Carlo Tree Search Techniques in the Game of Kriegspiel (IJCAI 2009)**
