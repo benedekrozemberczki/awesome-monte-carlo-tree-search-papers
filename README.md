@@ -263,24 +263,19 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2011
 - **A Local Monte Carlo Tree Search Approach in Deterministic Planning (AAAI 2011)**
   - Fan Xie, Hootan Nakhost, Martin Müller
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.699.3833&rep=rep1&type=pdf)
 
 - **Real-Time Solving of Quantified CSPs Based on Monte-Carlo Game Tree Search (IJCAI 2011)**
   - Satomi Baba, Yongjoon Joe, Atsushi Iwasaki, Makoto Yokoo
-  - [[Paper]]( )
-  - [[Code]]( )
-
-
+  - [[Paper]](https://www.ijcai.org/Proceedings/11/Papers/116.pdf)
+  
 - **Nested Rollout Policy Adaptation for Monte Carlo Tree Search (IJCAI 2011)**
   - Christopher D. Rosin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/11/Papers/115.pdf)
 
 - **Variance Reduction in Monte-Carlo Tree Search (NIPS 2011)**
   - Joel Veness, Marc Lanctot, Michael H. Bowling
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/4288-variance-reduction-in-monte-carlo-tree-search)
 
 - **Learning Is Planning: Near Bayes-Optimal Reinforcement Learning via Monte-Carlo Tree Search (UAI 2011)**
   - John Asmuth, Michael L. Littman
