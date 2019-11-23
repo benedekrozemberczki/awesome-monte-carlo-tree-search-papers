@@ -282,10 +282,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
 
-- **Learning is planning: near Bayes-optimal reinforcement learning via Monte-Carlo tree search (UAI 2011)**
+- **Learning Is Planning: Near Bayes-Optimal Reinforcement Learning via Monte-Carlo Tree Search (UAI 2011)**
   - John Asmuth, Michael L. Littman
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1202.3699)
 
 ## 2010
 - **Understanding the Success of Perfect Information Monte Carlo Sampling in Game Tree Search (AAAI 2010)**
