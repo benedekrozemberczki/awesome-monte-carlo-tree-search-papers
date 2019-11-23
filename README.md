@@ -257,8 +257,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2012
 - **Generalized Monte-Carlo Tree Search Extensions for General Game Playing (AAAI 2012)**
   - Hilmar Finnsson
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/viewFile/4935/5300)
 
 ## 2011
 - **A Local Monte Carlo Tree Search Approach in Deterministic Planning (AAAI 2011)**
