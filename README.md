@@ -197,7 +197,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Code]]( )
 
 ## 2015
-- **Efficient globally optimal consensus maximisation with tree search (CVPR 2015)**
+- **Efficient Globally Optimal Consensus Maximisation with Tree Search (CVPR 2015)**
   - Tat-Jun Chin, Pulak Purkait, Anders P. Eriksson, David Suter
   - [[Paper]]( )
   - [[Code]]( )
