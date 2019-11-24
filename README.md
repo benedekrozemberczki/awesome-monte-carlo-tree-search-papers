@@ -210,13 +210,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2014
 - **State Aggregation in Monte Carlo Tree Search (AAAI 2014)**
   - Jesse Hostetler, Alan Fern, Tom Dietterich
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/download/8439/8712)
 
 - **Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning (NIPS 2014)**
   - Xiaoxiao Guo, Satinder P. Singh, Honglak Lee, Richard L. Lewis, Xiaoshi Wang
-  - [[Paper]]()
-  - [[Code]]( )
+  - [[Paper]](https://web.eecs.umich.edu/~baveja/Papers/UCTtoCNNsAtariGames-FinalVersion.pdf)
 
 - **Learning Partial Policies to Speedup MDP Tree Search (UAI 2014)**
   - Jervis Pinto, Alan Fern
