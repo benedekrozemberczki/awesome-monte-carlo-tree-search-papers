@@ -71,12 +71,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Feedback-Based Tree Search for Reinforcement Learning (ICML 2018)**
   - Daniel R. Jiang, Emmanuel Ekwedike, Han Liu
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/1805.05935)
   - [[Code]]( )
 
 - **Extended Increasing Cost Tree Search for Non-Unit Cost Domains (IJCAI 2018)**
   - Thayne T. Walker, Nathan R. Sturtevant, Ariel Felner
-  - [[Paper]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2018/74)
   - [[Code]]( )
 
 - **Three-Head Neural Network Architecture for Monte Carlo Tree Search (IJCAI 2018)**
@@ -86,28 +86,23 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Bidding in Periodic Double Auctions Using Heuristics and Dynamic Monte Carlo Tree Search (IJCAI 2018)**
   - Moinul Morshed Porag Chowdhury, Christopher Kiekintveld, Son Tran, William Yeoh
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2018/23)
 
 - **Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search (NIPS 2018)**
   - Zhuwen Li, Qifeng Chen, Vladlen Koltun
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1810.10659)
 
 - **M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search (NIPS 2018)**
   - Yelong Shen, Jianshu Chen, Po-Sen Huang, Yuqing Guo, Jianfeng Gao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1802.04394)
 
 - **Single-Agent Policy Tree Search With Guarantees (NIPS 2018)**
   - Laurent Orseau, Levi Lelis, Tor Lattimore, Theophane Weber
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1811.10928)
 
 - **Monte-Carlo Tree Search for Constrained POMDPs (NIPS 2018)**
   - Jongmin Lee, Geon-hyeong Kim, Pascal Poupart, Kee-Eung Kim
-  - [[Paper]](http://auai.org/uai2017/proceedings/papers/37.pdf)
-  - [[Code]]( )
+  - [[Paper]](https://cs.uwaterloo.ca/~ppoupart/publications/constrained-pomdps/mcts-constrained-pomdps-paper.pdf)
 
 ## 2017
 - **An Analysis of Monte Carlo Tree Search (AAAI 2017)**
