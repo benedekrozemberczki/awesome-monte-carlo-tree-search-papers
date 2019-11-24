@@ -66,23 +66,19 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2018
 - **Memory-Augmented Monte Carlo Tree Search (AAAI 2018)**
   - Chenjun Xiao, Jincheng Mei, Martin Müller
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17139)
 
 - **Feedback-Based Tree Search for Reinforcement Learning (ICML 2018)**
   - Daniel R. Jiang, Emmanuel Ekwedike, Han Liu
   - [[Paper]](https://arxiv.org/abs/1805.05935)
-  - [[Code]]( )
 
 - **Extended Increasing Cost Tree Search for Non-Unit Cost Domains (IJCAI 2018)**
   - Thayne T. Walker, Nathan R. Sturtevant, Ariel Felner
   - [[Paper]](https://www.ijcai.org/proceedings/2018/74)
-  - [[Code]]( )
 
 - **Three-Head Neural Network Architecture for Monte Carlo Tree Search (IJCAI 2018)**
   - Chao Gao, Martin Müller, Ryan Hayward
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2018/523)
 
 - **Bidding in Periodic Double Auctions Using Heuristics and Dynamic Monte Carlo Tree Search (IJCAI 2018)**
   - Moinul Morshed Porag Chowdhury, Christopher Kiekintveld, Son Tran, William Yeoh
