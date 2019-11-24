@@ -178,23 +178,19 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **On the Analysis of Complex Backup Strategies in Monte Carlo Tree Search (ICML 2016)**
   - Piyush Khandelwal, Elad Liebman, Scott Niekum, Peter Stone
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cs.utexas.edu/~eladlieb/ICML2016.pdf)
 
 - **Deep Learning for Reward Design to Improve Monte Carlo Tree Search in ATARI Games (IJCAI 2016)**
   - Xiaoxiao Guo, Satinder P. Singh, Richard L. Lewis, Honglak Lee
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1604.07095)
 
 - **Monte Carlo Tree Search in Continuous Action Spaces with Execution Uncertainty (IJCAI 2016)**
   - Timothy Yee, Viliam Lisý, Michael H. Bowling
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/16/Papers/104.pdf)
 
 - **Learning Predictive State Representations via Monte-Carlo Tree Search (IJCAI 2016)**
   - Yunlong Liu, Hexing Zhu, Yifeng Zeng, Zongxiong Dai
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/8056/df11094fc96d76826403f8b339dc14aa821f.pdf)
 
 ## 2015
 - **Efficient Globally Optimal Consensus Maximisation with Tree Search (CVPR 2015)**
