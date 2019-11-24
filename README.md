@@ -163,18 +163,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2016
 - **Using Domain Knowledge to Improve Monte-Carlo Tree Search Performance in Parameterized Poker Squares (AAAI 2016)**
   - Robert Arrington, Clay Langley, Steven Bogaerts
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11809)
 
 - **Monte Carlo Tree Search for Multi-Robot Task Allocation (AAAI 2016)**
   - Bilal Kartal, Ernesto Nunes, Julio Godoy, Maria L. Gini
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12154)
 
 - **Large Scale Hard Sample Mining with Monte Carlo Tree Search (CVPR 2016)**
   - Olivier Canévet, François Fleuret
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.idiap.ch/~fleuret/papers/canevet-fleuret-cvpr2016.pdf)
 
 - **On the Analysis of Complex Backup Strategies in Monte Carlo Tree Search (ICML 2016)**
   - Piyush Khandelwal, Elad Liebman, Scott Niekum, Peter Stone
