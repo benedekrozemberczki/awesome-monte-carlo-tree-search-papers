@@ -215,13 +215,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning (NIPS 2014)**
   - Xiaoxiao Guo, Satinder P. Singh, Honglak Lee, Richard L. Lewis, Xiaoshi Wang
-  - [[Paper]]( )
+  - [[Paper]]()
   - [[Code]]( )
 
 - **Learning Partial Policies to Speedup MDP Tree Search (UAI 2014)**
   - Jervis Pinto, Alan Fern
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://www.jmlr.org/papers/volume18/15-251/15-251.pdf)
 
 ## 2013
 - **Monte Carlo Tree Search for Scheduling Activity Recognition (ICCV 2013)**
