@@ -237,8 +237,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Bayesian Mixture Modelling and Inference based Thompson Sampling in Monte-Carlo Tree Search (NIPS 2013)**
   - Aijun Bai, Feng Wu, Xiaoping Chen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/5111-bayesian-mixture-modelling-and-inference-based-thompson-sampling-in-monte-carlo-tree-search)
 
 ## 2012
 - **Generalized Monte-Carlo Tree Search Extensions for General Game Playing (AAAI 2012)**
