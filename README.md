@@ -199,13 +199,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2015
 - **Efficient Globally Optimal Consensus Maximisation with Tree Search (CVPR 2015)**
   - Tat-Jun Chin, Pulak Purkait, Anders P. Eriksson, David Suter
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://zpascal.net/cvpr2015/Chin_Efficient_Globally_Optimal_2015_CVPR_paper.pdf)
 
 - **Interplanetary Trajectory Planning with Monte Carlo Tree Search (IJCAI 2015)**
   - Daniel Hennes, Dario Izzo
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://pdfs.semanticscholar.org/ce42/53ca1c5b16e96cdbefae75649cd2588f42f3.pdf)
 
 ## 2014
 - **State Aggregation in Monte Carlo Tree Search (AAAI 2014)**
