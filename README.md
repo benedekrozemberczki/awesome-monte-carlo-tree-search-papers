@@ -224,16 +224,13 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Code]]( )
 
 ## 2013
-
 - **Monte Carlo Tree Search for Scheduling Activity Recognition (ICCV 2013)**
   - Mohamed R. Amer, Sinisa Todorovic, Alan Fern, Song-Chun Zhu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.405.5916&rep=rep1&type=pdf)
 
 - **Convergence of Monte Carlo Tree Search in Simultaneous Move Games (NIPS 2013)**
   - Viliam Lisý, Vojtech Kovarík, Marc Lanctot, Branislav Bosanský
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://papers.nips.cc/paper/5145-convergence-of-monte-carlo-tree-search-in-simultaneous-move-games)
 
 - **Bayesian Mixture Modelling and Inference based Thompson Sampling in Monte-Carlo Tree Search (NIPS 2013)**
   - Aijun Bai, Feng Wu, Xiaoping Chen
