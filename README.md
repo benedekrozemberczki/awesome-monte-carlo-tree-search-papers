@@ -106,59 +106,49 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Monte-Carlo Tree Search for Constrained POMDPs (NIPS 2018)**
   - Jongmin Lee, Geon-hyeong Kim, Pascal Poupart, Kee-Eung Kim
-  - [[Paper]]( )
+  - [[Paper]](http://auai.org/uai2017/proceedings/papers/37.pdf)
   - [[Code]]( )
 
 ## 2017
 - **An Analysis of Monte Carlo Tree Search (AAAI 2017)**
   - Steven James, George Dimitri Konidaris, Benjamin Rosman
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14886)
 
 - **Beyond Monte Carlo Tree Search: Playing Go with Deep Alternative Neural Network and Long-Term Evaluation (AAAI 2017)**
   - Jinzhuo Wang, Wenmin Wang, Ronggang Wang, Wen Gao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1706.04052)
 
 - **Designing Better Playlists with Monte Carlo Tree Search (AAAI 2017)**
   - Elad Liebman, Piyush Khandelwal, Maytal Saar-Tsechansky, Peter Stone
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/IAAI2017-eladlieb.pdf)
 
 - **Learning in POMDPs with Monte Carlo Tree Search (ICML 2017)**
   - Sammie Katt, Frans A. Oliehoek, Christopher Amato
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1806.05631)
 
 - **Learning to Run Heuristics in Tree Search (IJCAI 2017)**
   - Elias B. Khalil, Bistra Dilkina, George L. Nemhauser, Shabbir Ahmed, Yufen Shao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2017/92)
 
-- **Estimating the size of search trees by sampling with domain knowledge (IJCAI 2017)**
+- **Estimating the Size of Search Trees by Sampling with Domain Knowledge (IJCAI 2017)**
   - Gleb Belov, Samuel Esler, Dylan Fernando, Pierre Le Bodic, George L. Nemhauser
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2017/67)
 
-- **A Monte Carlo Tree Search approach to Active Malware Analysis (IJCAI 2017)**
+- **A Monte Carlo Tree Search Approach to Active Malware Analysis (IJCAI 2017)**
   - Riccardo Sartea, Alessandro Farinelli
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2017/535)
 
 - **Monte-Carlo Tree Search by Best Arm Identification (NIPS 2017)**
   - Emilie Kaufmann, Wouter M. Koolen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1706.02986)
 
 - **Thinking Fast and Slow with Deep Learning and Tree Search (NIPS 2017)**
   - Thomas Anthony, Zheng Tian, David Barber
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1705.08439)
 
 - **Monte-Carlo Tree Search using Batch Value of Perfect Information (UAI 2017)**
   - Shahaf S. Shperberg, Solomon Eyal Shimony, Ariel Felner
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](http://auai.org/uai2017/proceedings/papers/37.pdf)
 
 ## 2016
 - **Using Domain Knowledge to Improve Monte-Carlo Tree Search Performance in Parameterized Poker Squares (AAAI 2016)**
