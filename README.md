@@ -1,10 +1,10 @@
-# Awesome (Monte Carlo) Tree Search Papers.
+# Awesome Monte Carlo Tree Search Papers.
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/awesome-tree-search-papers.svg?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/benedekrozemberczki/awesome-tree-search-papers.svg?color=blue&style=plastic) ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-tree-search-papers.svg?color=blue&style=plastic)
 <p align="center">
   <img width="600" src="tree.png">
 </p>
 
-A curated list of tree search papers with implementations from the following conferences:
+A curated list of Monte Carlo tree search papers with implementations from the following conferences:
 
 - Machine learning
    * [NeurIPS](https://nips.cc/) 
