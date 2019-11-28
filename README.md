@@ -4,7 +4,7 @@
   <img width="600" src="tree.png">
 </p>
 
-A curated list of Monte Carlo tree search papers with implementations from the following conferences:
+A curated list of Monte Carlo tree search papers with implementations from the following conferences/journals:
 
 - Machine learning
    * [NeurIPS](https://nips.cc/) 
@@ -21,6 +21,8 @@ A curated list of Monte Carlo tree search papers with implementations from the f
    * [AISTATS](https://www.aistats.org/)
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
+- Robotics
+   * [RAS](https://www.journals.elsevier.com/robotics-and-autonomous-systems)
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [classification/regression trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
@@ -64,6 +66,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://www.ijcai.org/proceedings/2019/0653.pdf)
 
 ## 2018
+- **Reset-free Trial-and-Error Learning for Robot Damage Recovery (RAS 2018)**
+  - Konstantinos Chatzilygeroudis, Vassilis Vassiliades, Jean-Baptiste Mouret
+  - [[Paper]](https://arxiv.org/pdf/1610.04213.pdf)
+  - [[Code]](https://github.com/resibots/chatzilygeroudis_2018_rte)
+  - [[MCTS C++ Library]](https://github.com/resibots/mcts)
+
 - **Memory-Augmented Monte Carlo Tree Search (AAAI 2018)**
   - Chenjun Xiao, Jincheng Mei, Martin Müller
   - [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17139)
