@@ -64,7 +64,11 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Multiple Policy Value Monte Carlo Tree Search (IJCAI 2019)**
   - Li-Cheng Lan, Wei Li, Ting-Han Wei, I-Chen Wu
   - [[Paper]](https://www.ijcai.org/proceedings/2019/0653.pdf)
-
+  
+- **Learning Compositional Neural Programs with Recursive Tree Search and Planning (NIPS 2019)**
+  - Thomas Pierrot, Guillaume Ligner, Scott E. Reed, Olivier Sigaud, Nicolas Perrin, Alexandre Laterre, David Kas, Karim Beguir, Nando de Freitas
+  - [[Paper]]( )
+ 
 ## 2018
 - **Reset-free Trial-and-Error Learning for Robot Damage Recovery (RAS 2018)**
   - Konstantinos Chatzilygeroudis, Vassilis Vassiliades, Jean-Baptiste Mouret
