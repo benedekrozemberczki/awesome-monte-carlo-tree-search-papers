@@ -67,7 +67,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **Learning Compositional Neural Programs with Recursive Tree Search and Planning (NeurIPS 2019)**
   - Thomas Pierrot, Guillaume Ligner, Scott E. Reed, Olivier Sigaud, Nicolas Perrin, Alexandre Laterre, David Kas, Karim Beguir, Nando de Freitas
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/1905.12941)
  
 ## 2018
 - **Reset-free Trial-and-Error Learning for Robot Damage Recovery (RAS 2018)**
