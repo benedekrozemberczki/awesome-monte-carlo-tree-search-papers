@@ -65,7 +65,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Li-Cheng Lan, Wei Li, Ting-Han Wei, I-Chen Wu
   - [[Paper]](https://www.ijcai.org/proceedings/2019/0653.pdf)
   
-- **Learning Compositional Neural Programs with Recursive Tree Search and Planning (NIPS 2019)**
+- **Learning Compositional Neural Programs with Recursive Tree Search and Planning (NeurIPS 2019)**
   - Thomas Pierrot, Guillaume Ligner, Scott E. Reed, Olivier Sigaud, Nicolas Perrin, Alexandre Laterre, David Kas, Karim Beguir, Nando de Freitas
   - [[Paper]]( )
  
