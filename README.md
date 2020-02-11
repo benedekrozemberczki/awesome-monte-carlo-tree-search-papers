@@ -46,6 +46,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Rajat Sen, Kirthevasan Kandasamy, Sanjay Shakkottai
   - [[Paper]](https://arxiv.org/abs/1810.10482)
   - [[Code]](https://github.com/rajatsen91/MFTREE_DET)
+  
+- **Reinforcement Learning Based Monte Carlo Tree Search for Temporal Path Discovery (ICDM 2019)**
+  - Pengfei Ding, Guanfeng Liu, Pengpeng Zhao, An Liu, Zhixu Li, Kai Zheng
+  - [[Paper]](https://zheng-kai.com/paper/icdm_2019_b.pdf)
 
 - **Monte Carlo Tree Search for Policy Optimization (IJCAI 2019)**
   - Xiaobai Ma, Katherine Rose Driggs-Campbell, Zongzhang Zhang, Mykel J. Kochenderfer
