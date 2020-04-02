@@ -30,7 +30,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Watch the Unobserved: A Simple Approach to Parallelizing Monte Carlo Tree Search (ICLR 2020)**
 - Anji Liu, Jianshu Chen, Mingze Yu, Yu Zhai, Xuewen Zhou, Ji Liu
 - [[Paper]](https://openreview.net/forum?id=BJlQtJSKDB)
-- [[Code]]()
+- [[Code]](https://github.com/brilee/python_uct)
 
 ## 2019
 - **ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search (AAAI 2019)**
