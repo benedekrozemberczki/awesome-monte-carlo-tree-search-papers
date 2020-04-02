@@ -27,6 +27,10 @@ A curated list of Monte Carlo tree search papers with implementations from the f
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [classification/regression trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2020
+- **Watch the Unobserved: A Simple Approach to Parallelizing Monte Carlo Tree Search (ICLR 2020)**
+- Anji Liu, Jianshu Chen, Mingze Yu, Yu Zhai, Xuewen Zhou, Ji Liu
+- [[Paper]](https://openreview.net/forum?id=BJlQtJSKDB)
+- [[Code]]()
 
 ## 2019
 - **ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search (AAAI 2019)**
