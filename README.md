@@ -7,8 +7,8 @@
 A curated list of Monte Carlo tree search papers with implementations from the following conferences/journals:
 
 - Machine learning
-   * [NeurIPS](https://nips.cc/) 
-   * [ICML](https://icml.cc/) 
+   * [NeurIPS](https://nips.cc/)
+   * [ICML](https://icml.cc/)
 - Computer vision
    * [CVPR](http://cvpr2019.thecvf.com/)
    * [ICCV](http://iccv2019.thecvf.com/)
@@ -23,6 +23,8 @@ A curated list of Monte Carlo tree search papers with implementations from the f
    * [UAI](http://www.auai.org/)
 - Robotics
    * [RAS](https://www.journals.elsevier.com/robotics-and-autonomous-systems)
+- Games
+   * [CIG](http://www.ieee-cig.org/)
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [classification/regression trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
@@ -53,7 +55,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Rajat Sen, Kirthevasan Kandasamy, Sanjay Shakkottai
   - [[Paper]](https://arxiv.org/abs/1810.10482)
   - [[Code]](https://github.com/rajatsen91/MFTREE_DET)
-  
+
 - **Reinforcement Learning Based Monte Carlo Tree Search for Temporal Path Discovery (ICDM 2019)**
   - Pengfei Ding, Guanfeng Liu, Pengpeng Zhao, An Liu, Zhixu Li, Kai Zheng
   - [[Paper]](https://zheng-kai.com/paper/icdm_2019_b.pdf)
@@ -75,12 +77,18 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Multiple Policy Value Monte Carlo Tree Search (IJCAI 2019)**
   - Li-Cheng Lan, Wei Li, Ting-Han Wei, I-Chen Wu
   - [[Paper]](https://www.ijcai.org/proceedings/2019/0653.pdf)
-  
+
 - **Learning Compositional Neural Programs with Recursive Tree Search and Planning (NeurIPS 2019)**
   - Thomas Pierrot, Guillaume Ligner, Scott E. Reed, Olivier Sigaud, Nicolas Perrin, Alexandre Laterre, David Kas, Karim Beguir, Nando de Freitas
   - [[Paper]](https://arxiv.org/abs/1905.12941)
- 
+
 ## 2018
+- **Monte Carlo Methods for the Game Kingdomino (CIG 2018)**
+  - Magnus Gedda, Mikael Z. Lagerkvist, Martin Butler
+  - [[Paper]](https://arxiv.org/abs/1807.04458)
+  - [[Code]](https://github.com/mgedda/kdom-ai)
+  - [[Game Server]](https://github.com/mratin/kdom)
+
 - **Reset-free Trial-and-Error Learning for Robot Damage Recovery (RAS 2018)**
   - Konstantinos Chatzilygeroudis, Vassilis Vassiliades, Jean-Baptiste Mouret
   - [[Paper]](https://arxiv.org/pdf/1610.04213.pdf)
@@ -241,7 +249,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Real-Time Solving of Quantified CSPs Based on Monte-Carlo Game Tree Search (IJCAI 2011)**
   - Satomi Baba, Yongjoon Joe, Atsushi Iwasaki, Makoto Yokoo
   - [[Paper]](https://www.ijcai.org/Proceedings/11/Papers/116.pdf)
-  
+
 - **Nested Rollout Policy Adaptation for Monte Carlo Tree Search (IJCAI 2011)**
   - Christopher D. Rosin
   - [[Paper]](https://www.ijcai.org/Proceedings/11/Papers/115.pdf)
@@ -276,7 +284,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Direct Mining of Discriminative and Essential Frequent Patterns via Model-Based Search Tree (KDD 2008)**
   - Wei Fan, Kun Zhang, Hong Cheng, Jing Gao, Xifeng Yan, Jiawei Han, Philip S. Yu, Olivier Verscheure
   - [[Paper]](http://www1.se.cuhk.edu.hk/~hcheng/paper/kdd08mbt.pdf)
-  
+
 ## 2007
 - **Bandit Algorithms for Tree Search (UAI 2007)**
   - Pierre-Arnaud Coquelin, Rémi Munos
