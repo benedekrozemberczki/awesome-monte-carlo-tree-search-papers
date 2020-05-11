@@ -35,6 +35,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - [[Paper]](https://openreview.net/forum?id=BJlQtJSKDB)
 - [[Code]](https://github.com/brilee/python_uct)
 
+- **Extracting Knowledge from Web Text with Monte Carlo Tree Search (WWW 2020)**
+  - Guiliang Liu, Xu Li, Jiakang Wang, Mingming Sun, Ping Li
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3366423.3380010)
+
 ## 2019
 - **ACE: An Actor Ensemble Algorithm for Continuous Control with Tree Search (AAAI 2019)**
   - Shangtong Zhang, Hengshuai Yao
