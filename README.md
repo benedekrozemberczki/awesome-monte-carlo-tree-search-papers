@@ -36,7 +36,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Neural Architecture Search Using Deep Neural Networks and Monte Carlo Tree Search (AAAI 2020)**
   - Linnan Wang, Yiyang Zhao, Yuu Jinnai, Yuandong Tian, Rodrigo Fonseca
-  - [[Paper]]( )
+  - [[Paper]](https://arxiv.org/abs/1805.07440)
   - [[Code]]( )
 
 - **Monte-Carlo Tree Search in Continuous Action Spaces with Value Gradients (AAAI 2020)**
