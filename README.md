@@ -41,7 +41,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Monte-Carlo Tree Search in Continuous Action Spaces with Value Gradients (AAAI 2020)**
   - Jongmin Lee, Wonseok Jeon, Geon-Hyeong Kim, Kee-Eung Kim
-  - [[Paper]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/16/Papers/104.pdf)
   - [[Code]]( )
 
 - **Watch the Unobserved: A Simple Approach to Parallelizing Monte Carlo Tree Search (ICLR 2020)**
