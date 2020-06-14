@@ -33,7 +33,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Monte Carlo Tree Search in Continuous Spaces Using Voronoi Optimistic Optimization with Regret Bounds (AAAI 2020)**
   - Beomjoon Kim, Kyungjae Lee, Sungbin Lim, Leslie Pack Kaelbling, Tomás Lozano-Pérez
   - [[Paper]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-KimB.1282.pdf)
-  - [[Code]]( )
 
 - **Neural Architecture Search Using Deep Neural Networks and Monte Carlo Tree Search (AAAI 2020)**
   - Linnan Wang, Yiyang Zhao, Yuu Jinnai, Yuandong Tian, Rodrigo Fonseca
