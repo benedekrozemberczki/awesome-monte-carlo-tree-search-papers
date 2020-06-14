@@ -30,10 +30,25 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ## 2020
 
+- **Monte Carlo Tree Search in Continuous Spaces Using Voronoi Optimistic Optimization with Regret Bounds (AAAI 2020)**
+  - Beomjoon Kim, Kyungjae Lee, Sungbin Lim, Leslie Pack Kaelbling, Tomás Lozano-Pérez
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Neural Architecture Search Using Deep Neural Networks and Monte Carlo Tree Search (AAAI 2020)**
+  - Linnan Wang, Yiyang Zhao, Yuu Jinnai, Yuandong Tian, Rodrigo Fonseca
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Monte-Carlo Tree Search in Continuous Action Spaces with Value Gradients (AAAI 2020)**
+  - Jongmin Lee, Wonseok Jeon, Geon-Hyeong Kim, Kee-Eung Kim
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **Watch the Unobserved: A Simple Approach to Parallelizing Monte Carlo Tree Search (ICLR 2020)**
-- Anji Liu, Jianshu Chen, Mingze Yu, Yu Zhai, Xuewen Zhou, Ji Liu
-- [[Paper]](https://openreview.net/forum?id=BJlQtJSKDB)
-- [[Code]](https://github.com/brilee/python_uct)
+  - Anji Liu, Jianshu Chen, Mingze Yu, Yu Zhai, Xuewen Zhou, Ji Liu
+  - [[Paper]](https://openreview.net/forum?id=BJlQtJSKDB)
+  - [[Code]](https://github.com/brilee/python_uct)
 
 - **Extracting Knowledge from Web Text with Monte Carlo Tree Search (WWW 2020)**
   - Guiliang Liu, Xu Li, Jiakang Wang, Mingming Sun, Ping Li
