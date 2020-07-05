@@ -43,6 +43,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Jongmin Lee, Wonseok Jeon, Geon-Hyeong Kim, Kee-Eung Kim
   - [[Paper]](https://www.ijcai.org/Proceedings/16/Papers/104.pdf)
   - [[Code]](https://github.com/leekwoon/KR-DL-UCT)
+  
+- **Approximate Inference in Discrete Distributions with Monte Carlo Tree Search and Value Functions (AISTATS 2020)**
+  - Lars Buesing, Nicolas Heess, Theophane Weber
+  - [[Paper]](https://arxiv.org/abs/1910.06862)
 
 - **Watch the Unobserved: A Simple Approach to Parallelizing Monte Carlo Tree Search (ICLR 2020)**
   - Anji Liu, Jianshu Chen, Mingze Yu, Yu Zhai, Xuewen Zhou, Ji Liu
