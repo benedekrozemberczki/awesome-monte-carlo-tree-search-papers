@@ -59,8 +59,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Generalized Mean Estimation in Monte-Carlo Tree Search (IJCAI 2020)**
   - Tuan Dam, Pascal Klink, Carlo D'Eramo, Jan Peters, Joni Pajarinen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1911.00384)
 
 - **Sparse Tree Search Optimality Guarantees in POMDPs with Continuous Observation Spaces (IJCAI 2020)**
   - Michael H. Lim, Claire Tomlin, Zachary N. Sunberg
