@@ -52,6 +52,21 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Anji Liu, Jianshu Chen, Mingze Yu, Yu Zhai, Xuewen Zhou, Ji Liu
   - [[Paper]](https://openreview.net/forum?id=BJlQtJSKDB)
   - [[Code]](https://github.com/brilee/python_uct)
+  
+- **Monte-Carlo Tree Search for Scalable Coalition Formation (IJCAI 2020)**
+  - Feng Wu, Sarvapali D. Ramchurn
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Generalized Mean Estimation in Monte-Carlo Tree Search (IJCAI 2020)**
+  - Tuan Dam, Pascal Klink, Carlo D'Eramo, Jan Peters, Joni Pajarinen
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Sparse Tree Search Optimality Guarantees in POMDPs with Continuous Observation Spaces (IJCAI 2020)**
+  - Michael H. Lim, Claire Tomlin, Zachary N. Sunberg
+  - [[Paper]]( )
+  - [[Code]]( )
 
 - **Extracting Knowledge from Web Text with Monte Carlo Tree Search (WWW 2020)**
   - Guiliang Liu, Xu Li, Jiakang Wang, Mingming Sun, Ping Li
