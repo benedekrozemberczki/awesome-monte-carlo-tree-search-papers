@@ -55,8 +55,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **Monte-Carlo Tree Search for Scalable Coalition Formation (IJCAI 2020)**
   - Feng Wu, Sarvapali D. Ramchurn
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/Proceedings/2020/57)
 
 - **Generalized Mean Estimation in Monte-Carlo Tree Search (IJCAI 2020)**
   - Tuan Dam, Pascal Klink, Carlo D'Eramo, Jan Peters, Joni Pajarinen
