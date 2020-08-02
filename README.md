@@ -63,8 +63,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Sparse Tree Search Optimality Guarantees in POMDPs with Continuous Observation Spaces (IJCAI 2020)**
   - Michael H. Lim, Claire Tomlin, Zachary N. Sunberg
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/1910.04332)
 
 - **Extracting Knowledge from Web Text with Monte Carlo Tree Search (WWW 2020)**
   - Guiliang Liu, Xu Li, Jiakang Wang, Mingming Sun, Ping Li
