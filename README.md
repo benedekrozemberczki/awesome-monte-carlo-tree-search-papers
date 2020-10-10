@@ -67,7 +67,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   
 - **Mix and Match: An Optimistic Tree-Search Approach for Learning Models from Mixture Distributions (NeurIPS 2020)**
   - Matthew Faw, Rajat Sen, Karthikeyan Shanmugam, Constantine Caramanis, Sanjay Shakkottai
-  - [[Paper]](https://arxiv.org/abs/1910.04332)
+  - [[Paper]](https://arxiv.org/abs/1907.10154)
 
 - **Extracting Knowledge from Web Text with Monte Carlo Tree Search (WWW 2020)**
   - Guiliang Liu, Xu Li, Jiakang Wang, Mingming Sun, Ping Li
