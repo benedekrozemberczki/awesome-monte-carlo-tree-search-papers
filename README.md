@@ -64,6 +64,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Sparse Tree Search Optimality Guarantees in POMDPs with Continuous Observation Spaces (IJCAI 2020)**
   - Michael H. Lim, Claire Tomlin, Zachary N. Sunberg
   - [[Paper]](https://arxiv.org/abs/1910.04332)
+  
+- **Mix and Match: An Optimistic Tree-Search Approach for Learning Models from Mixture Distributions (NeurIPS 2020)**
+  - Matthew Faw, Rajat Sen, Karthikeyan Shanmugam, Constantine Caramanis, Sanjay Shakkottai
+  - [[Paper]](https://arxiv.org/abs/1910.04332)
 
 - **Extracting Knowledge from Web Text with Monte Carlo Tree Search (WWW 2020)**
   - Guiliang Liu, Xu Li, Jiakang Wang, Mingming Sun, Ping Li
