@@ -61,7 +61,6 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Sub-Goal Trees a Framework for Goal-Based Reinforcement Learning (ICML 2020)**
   - Tom Jurgenson, Or Avner, Edward Groshev, Aviv Tamar
   - [[Paper]](https://arxiv.org/abs/2002.12361)
-  - [[Code]]( )
   
 - **Monte-Carlo Tree Search for Scalable Coalition Formation (IJCAI 2020)**
   - Feng Wu, Sarvapali D. Ramchurn
