@@ -56,7 +56,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Information Particle Filter Tree: An Online Algorithm for POMDPs with Belief-Based Rewards on Continuous Domains (ICML 2020)**
   - Johannes Fischer, Ömer Sahin Tas
   - [[Paper]]( )
-  - [[Code]]( )
+  - [[Code]](https://github.com/johannes-fischer/icml2020_ipft)
 
 - **Sub-Goal Trees a Framework for Goal-Based Reinforcement Learning (ICML 2020)**
   - Tom Jurgenson, Or Avner, Edward Groshev, Aviv Tamar
