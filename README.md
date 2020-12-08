@@ -53,6 +53,16 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]](https://openreview.net/forum?id=BJlQtJSKDB)
   - [[Code]](https://github.com/brilee/python_uct)
   
+- **Information Particle Filter Tree: An Online Algorithm for POMDPs with Belief-Based Rewards on Continuous Domains (ICML 2020)**
+  - Johannes Fischer, Ömer Sahin Tas
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Sub-Goal Trees a Framework for Goal-Based Reinforcement Learning (ICML 2020)**
+  - Tom Jurgenson, Or Avner, Edward Groshev, Aviv Tamar
+  - [[Paper]]( )
+  - [[Code]]( )
+  
 - **Monte-Carlo Tree Search for Scalable Coalition Formation (IJCAI 2020)**
   - Feng Wu, Sarvapali D. Ramchurn
   - [[Paper]](https://www.ijcai.org/Proceedings/2020/57)
