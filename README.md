@@ -1,5 +1,5 @@
 # Awesome Monte Carlo Tree Search Papers.
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-tree-search-papers.svg?color=blue&style=plastic)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)[![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-monte-carlo-tree-search-papers.svg)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers/archive/master.zip) ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-tree-search-papers.svg?color=blue&style=plastic)
 <p align="center">
   <img width="600" src="tree.png">
 </p>
