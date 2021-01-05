@@ -370,3 +370,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **A Tree Search Algorithm for Target Detection in Image Sequences (CVPR 1988)**
   - Steven D. Blostein, Thomas S. Huang
   - [[Paper]](https://ieeexplore.ieee.org/document/196309)
+
+--------------------------------------------------------------------------------
+
+**License**
+
+- [CC0 Universal](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers/blob/master/LICENSE)
