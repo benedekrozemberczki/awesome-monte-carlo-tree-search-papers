@@ -31,40 +31,34 @@ A curated list of Monte Carlo tree search papers with implementations from the f
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [classification/regression trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
 ## 2021
+
 - **Learning to Stop: Dynamic Simulation Monte-Carlo Tree Search (AAAI 2021)**
   - Li-Cheng Lan, Ti-Rong Wu, I-Chen Wu, Cho-Jui Hsieh
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2012.07910)
 
 - **Dec-SGTS: Decentralized Sub-Goal Tree Search for Multi-Agent Coordination (AAAI 2021)**
   - Minglong Li, Zhongxuan Cai, Wenjing Yang, Lixia Wu, Yinghui Xu, Ji Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17345)
 
 - **Improved POMDP Tree Search Planning with Prioritized Action Branching (AAAI 2021)**
   - John Mern, Anil Yildiz, Lawrence Bush, Tapan Mukerji, Mykel J. Kochenderfer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2010.03599)
 
 - **Dynamic Automaton-Guided Reward Shaping for Monte Carlo Tree Search (AAAI 2021)**
   - Alvaro Velasquez, Brett Bissey, Lior Barak, Andre Beckus, Ismail Alkhouri, Daniel Melcer, George K. Atia
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17427)
 
 - **Single Player Monte-Carlo Tree Search Based on the Plackett-Luce Model (AAAI 2021)**
   - Felix Mohr, Viktor Bengs, Eyke Hüllermeier
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17468)
 
 - **Practical Massively Parallel Monte-Carlo Tree Search Applied to Molecular Design (ICLR 2021)**
   - Xiufeng Yang, Tanuj Kr Aasawat, Kazuki Yoshizoe
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2006.10504)
 
 - **Convex Regularization in Monte-Carlo Tree Search (ICML 2021)**
   - Tuan Dam, Carlo D'Eramo, Jan Peters, Joni Pajarinen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2007.00391)
 
 ## 2020
 
