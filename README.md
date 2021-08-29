@@ -60,6 +60,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Tuan Dam, Carlo D'Eramo, Jan Peters, Joni Pajarinen
   - [[Paper]](https://arxiv.org/abs/2007.00391)
 
+- **Combining Tree Search and Action Prediction for State-of-the-Art Performance in DouDiZhu (IJCAI 2021)**
+  - Yunsheng Zhang, Dong Yan, Bei Shi, Haobo Fu, Qiang Fu, Hang Su, Jun Zhu, Ning Chen
+  - [[Paper]]( )
+  - [[Code]]( )
+
+
 ## 2020
 
 - **Monte Carlo Tree Search in Continuous Spaces Using Voronoi Optimistic Optimization with Regret Bounds (AAAI 2020)**
