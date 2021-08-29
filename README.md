@@ -62,9 +62,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Combining Tree Search and Action Prediction for State-of-the-Art Performance in DouDiZhu (IJCAI 2021)**
   - Yunsheng Zhang, Dong Yan, Bei Shi, Haobo Fu, Qiang Fu, Hang Su, Jun Zhu, Ning Chen
-  - [[Paper]]( )
-  - [[Code]]( )
-
+  - [[Paper]](https://www.ijcai.org/proceedings/2021/470)
 
 ## 2020
 
