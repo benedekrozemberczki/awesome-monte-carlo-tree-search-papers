@@ -52,6 +52,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Felix Mohr, Viktor Bengs, Eyke Hüllermeier
   - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17468)
 
+- **Learning to Pack: A Data-Driven Tree Search Algorithm for Large-Scale 3D Bin Packing Problem (CIKM 2021)**
+  - Qianwen Zhu, Xihan Li, Zihan Zhang, Zhixing Luo, Xialiang Tong, Mingxuan Yuan, Jia Zeng
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3481933)
+
 - **Practical Massively Parallel Monte-Carlo Tree Search Applied to Molecular Design (ICLR 2021)**
   - Xiufeng Yang, Tanuj Kr Aasawat, Kazuki Yoshizoe
   - [[Paper]](https://arxiv.org/abs/2006.10504)
