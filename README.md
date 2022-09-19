@@ -417,4 +417,4 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - [CC0 Universal](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers/blob/master/LICENSE)
 
---------------------------------------------------------------------------------
+---------------------------------------------------------------------------
