@@ -30,6 +30,58 @@ A curated list of Monte Carlo tree search papers with implementations from the f
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [classification/regression trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
+## 2022
+- **Finding Backdoors to Integer Programs: A Monte Carlo Tree Search Framework (AAAI 2022)**
+  - Elias B. Khalil, Pashootan Vaezipoor, Bistra Dilkina
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **NSGZero: Efficiently Learning Non-exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search (AAAI 2022)**
+  - Wanqi Xue, Bo An, Chai Kiat Yeo
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Solving Disjunctive Temporal Networks with Uncertainty under Restricted Time-Based Controllability Using Tree Search and Graph Neural Networks (AAAI 2022)**
+  - Kevin Osanlou, Jeremy Frank, Andrei Bursuc, Tristan Cazenave, Eric Jacopin, Christophe Guettier, J. Benton
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Qubit Routing Using Graph Neural Network Aided Monte Carlo Tree Search (AAAI 2022)**
+  - Animesh Sinha, Utkarsh Azad, Harjinder Singh
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Split Moves for Monte-Carlo Tree Search (AAAI 2022)**
+  - Jakub Kowalski, Maksymilian Mika, Wojciech Pawlik, Jakub Sutowicz, Marek Szykula, Mark H. M. Winands
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Procrastinated Tree Search: Black-Box Optimization with Delayed%2C Noisy%2C and Multi-Fidelity Feedback (AAAI 2022)**
+  - Junxiong Wang, Debabrota Basu, Immanuel Trummer
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Enabling Arbitrary Translation Objectives with Adaptive Tree Search (ICLR 2022)**
+  - Wang Ling, Wojciech Stokowiec, Domenic Donato, Chris Dyer, Lei Yu, Laurent Sartran, Austin Matthews
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **What%27s Wrong with Deep Learning in Tree Search for Combinatorial Optimization (ICLR 2022)**
+  - Maximilian Böther, Otto Kißig, Martin Taraz, Sarel Cohen, Karen Seidel, Tobias Friedrich
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Anytime Capacity Expansion in Medical Residency Match by Monte Carlo Tree Search (IJCAI 2022)**
+  - Kenshi Abe, Junpei Komiyama, Atsushi Iwasaki
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Fast and Accurate User Cold-Start Learning Using Monte Carlo Tree Search (RECSYS 2022)**
+  - Dilina Chandika Rajapakse, Douglas Leith
+  - [[Paper]]( )
+  - [[Code]]( )
+
+
 ## 2021
 
 - **Learning to Stop: Dynamic Simulation Monte-Carlo Tree Search (AAAI 2021)**
