@@ -48,23 +48,19 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Qubit Routing Using Graph Neural Network Aided Monte Carlo Tree Search (AAAI 2022)**
   - Animesh Sinha, Utkarsh Azad, Harjinder Singh
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2104.01992)
 
 - **Split Moves for Monte-Carlo Tree Search (AAAI 2022)**
   - Jakub Kowalski, Maksymilian Mika, Wojciech Pawlik, Jakub Sutowicz, Marek Szykula, Mark H. M. Winands
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2112.07761)
 
-- **Procrastinated Tree Search: Black-Box Optimization with Delayed%2C Noisy%2C and Multi-Fidelity Feedback (AAAI 2022)**
+- **Procrastinated Tree Search: Black-Box Optimization with Delayed%2C Noisy and Multi-Fidelity Feedback (AAAI 2022)**
   - Junxiong Wang, Debabrota Basu, Immanuel Trummer
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2110.07232)
 
 - **Enabling Arbitrary Translation Objectives with Adaptive Tree Search (ICLR 2022)**
   - Wang Ling, Wojciech Stokowiec, Domenic Donato, Chris Dyer, Lei Yu, Laurent Sartran, Austin Matthews
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://en.x-mol.com/paper/article/1496885785571840000)
 
 - **What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization (ICLR 2022)**
   - Maximili1an Böther, Otto Kißig, Martin Taraz, Sarel Cohen, Karen Seidel, Tobias Friedrich
