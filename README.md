@@ -33,18 +33,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2022
 - **Finding Backdoors to Integer Programs: A Monte Carlo Tree Search Framework (AAAI 2022)**
   - Elias B. Khalil, Pashootan Vaezipoor, Bistra Dilkina
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2110.08423)
 
 - **NSGZero: Efficiently Learning Non-exploitable Policy in Large-Scale Network Security Games with Neural Monte Carlo Tree Search (AAAI 2022)**
   - Wanqi Xue, Bo An, Chai Kiat Yeo
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2201.07224)
 
 - **Solving Disjunctive Temporal Networks with Uncertainty under Restricted Time-Based Controllability Using Tree Search and Graph Neural Networks (AAAI 2022)**
   - Kevin Osanlou, Jeremy Frank, Andrei Bursuc, Tristan Cazenave, Eric Jacopin, Christophe Guettier, J. Benton
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21224)
 
 - **Qubit Routing Using Graph Neural Network Aided Monte Carlo Tree Search (AAAI 2022)**
   - Animesh Sinha, Utkarsh Azad, Harjinder Singh
