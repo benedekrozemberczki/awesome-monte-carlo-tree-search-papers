@@ -66,20 +66,17 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - [[Paper]]( )
   - [[Code]]( )
 
-- **What%27s Wrong with Deep Learning in Tree Search for Combinatorial Optimization (ICLR 2022)**
-  - Maximilian Böther, Otto Kißig, Martin Taraz, Sarel Cohen, Karen Seidel, Tobias Friedrich
-  - [[Paper]]( )
-  - [[Code]]( )
+- **What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization (ICLR 2022)**
+  - Maximili1an Böther, Otto Kißig, Martin Taraz, Sarel Cohen, Karen Seidel, Tobias Friedrich
+  - [[Paper]](https://arxiv.org/abs/2201.10494)
 
 - **Anytime Capacity Expansion in Medical Residency Match by Monte Carlo Tree Search (IJCAI 2022)**
   - Kenshi Abe, Junpei Komiyama, Atsushi Iwasaki
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2022/1)
 
 - **Fast and Accurate User Cold-Start Learning Using Monte Carlo Tree Search (RECSYS 2022)**
   - Dilina Chandika Rajapakse, Douglas Leith
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.scss.tcd.ie/Doug.Leith/pubs/recsys22-35.pdf)
 
 
 ## 2021
