@@ -71,6 +71,10 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   - Dilina Chandika Rajapakse, Douglas Leith
   - [[Paper]](https://www.scss.tcd.ie/Doug.Leith/pubs/recsys22-35.pdf)
 
+- **Fast and Accurate User Cold-Start Learning Using Monte Carlo Tree Search (RECSYS 2022)**
+  - Dilina Chandika Rajapakse, Douglas Leith
+  - [[Paper]]( )
+  - [[Code]]( )
 
 ## 2021
 
