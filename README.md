@@ -30,6 +30,11 @@ A curated list of Monte Carlo tree search papers with implementations from the f
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [classification/regression trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
+## 2023
+- **Symbolic Physics Learner: Discovering governing equations via Monte Carlo tree search (ICLR 2023)**
+  - Fangzheng Sun, Yang Liu, Jian-Xun Wang, Hao Sun
+  - [[Paper]](https://arxiv.org/abs/2205.13134)
+
 ## 2022
 - **Finding Backdoors to Integer Programs: A Monte Carlo Tree Search Framework (AAAI 2022)**
   - Elias B. Khalil, Pashootan Vaezipoor, Bistra Dilkina
