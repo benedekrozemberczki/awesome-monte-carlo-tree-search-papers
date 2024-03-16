@@ -4,7 +4,7 @@
   <img width="600" src="tree.png">
 </p>
 
------------------------------------------
+---------------------------------------
 
 A curated list of Monte Carlo tree search papers with implementations from the following conferences/journals:
 
