@@ -189,7 +189,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Monte Carlo Tree Search based Space Transfer for Black Box Optimization (NIPS 2024)**
   - Shukuan Wang, Ke Xue, Song Lei, Xiaobin Huang, Chao Qian
-  - [[Paper]]( )
+  - [[Paper]]()
   - [[Code]]( )
 
 - **Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search (NIPS 2024)**
@@ -292,18 +292,15 @@ Similar collections about [graph classification](https://github.com/benedekrozem
  
 - **Latent Planning via Expansive Tree Search (NIPS 2022)**
   - Robert Gieselmann, Florian T. Pokorny
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6af779991368999ab3da0d366c208fba-Abstract-Conference.html)
 
 - **Monte Carlo Tree Search based Variable Selection for High Dimensional Bayesian Optimization (NIPS 2022)**
   - Lei Song, Ke Xue, Xiaobin Huang, Chao Qian
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2210.01628)
 
 - **Optimistic Tree Searches for Combinatorial Black-Box Optimization (NIPS 2022)**
   - Cédric Malherbe, Antoine Grosnit, Rasul Tutunov, Haitham Bou-Ammar, Jun Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d6099a36f6c1720438de00c366aa1737-Abstract-Conference.html)
 
 - **Fast and Accurate User Cold-Start Learning Using Monte Carlo Tree Search (RECSYS 2022)**
   - Dilina Chandika Rajapakse, Douglas Leith
