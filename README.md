@@ -30,10 +30,228 @@ A curated list of Monte Carlo tree search papers with implementations from the f
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [classification/regression trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [fraud detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
+## 2025
+- **LiteSearch: Efficient Tree Search with Dynamic Exploration Budget for Math Reasoning (AAAI 2025)**
+  - Ante Wang, Linfeng Song, Ye Tian, Baolin Peng, Dian Yu, Haitao Mi, Jinsong Su, Dong Yu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Threshold UCT: Cost-Constrained Monte Carlo Tree Search with Pareto Curves (AAAI 2025)**
+  - Martin Kurecka, Václav Nevyhostený, Petr Novotný, Vít Uncovsk
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **HAVER: Instance-Dependent Error Bounds for Maximum Mean Estimation and Applications to Q-Learning and Monte Carlo Tree Search (AISTATS 2025)**
+  - Tuan Nguyen, Jay Barrett, Kwang-Sung Jun
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Monte Carlo Tree Search for Graph Reasoning in Large Language Model Agents (CIKM 2025)**
+  - Lihui Liu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ThoughtForest-KGQA: A Multi-Chain Tree Search for Knowledge Graph Reasoning (CIKM 2025)**
+  - Xingrun Quan, Yongkang Zhou, Junjie Yao
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Global-Local Tree Search in VLMs for 3D Indoor Scene Generation (CVPR 2025)**
+  - Wei Deng, Mengshi Qi, Huadong Ma
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration (CVPR 2025)**
+  - Lizheng Zu, Lin Lin, Song Fu, Na Zhao, Pan Zhou
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement (ICLR 2025)**
+  - Antonis Antoniades, Albert Örwall, Kexun Zhang, Yuxi Xie, Anirudh Goyal, William Yang Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Strategist: Self-improvement of LLM Decision Making via Bi-Level Tree Search (ICLR 2025)**
+  - Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, Xiusi Chen, Wei Cheng, Yisong Yue, Ziniu Hu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **CARTS: Advancing Neural Theorem Proving with Diversified Tactic Calibration and Bias-Resistant Tree Search (ICLR 2025)**
+  - Xiao-Wen Yang, Zhi Zhou, Haiming Wang, Aoxue Li, Wen-Da Wei, Hui Jin, Zhenguo Li, Yu-Feng Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search (ICLR 2025)**
+  - Huajian Xin, Z. Z. Ren, Junxiao Song, Zhihong Shao, Wanjia Zhao, Haocheng Wang, Bo Liu, Liyue Zhang, Xuan Lu, Qiushi Du, Wenjun Gao, Haowei Zhang, Qihao Zhu, Dejian Yang, Zhibin Gou, Z. F. Wu, Fuli Luo, Chong Ruan
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Epistemic Monte Carlo Tree Search (ICLR 2025)**
+  - Yaniv Oren, Viliam Vadocz, Matthijs T. J. Spaan, Wendelin Boehmer
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Monte-Carlo Tree Search with Uncertainty Propagation via Optimal Transport (ICML 2025)**
+  - Tuan Dam, Pascal Stenger, Lukas Schneider, Joni Pajarinen, Carlo D'Eramo, Odalric-Ambrym Maillard
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger (ICML 2025)**
+  - Qi Yang, Chenghao Zhang, Lubin Fan, Kun Ding, Jieping Ye, Shiming Xiang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **CombiMOTS: Combinatorial Multi-Objective Tree Search for Dual-Target Molecule Generation (ICML 2025)**
+  - Thibaud Southiratn, Bonil Koo, Yijingxiu Lu, Sun Kim
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Power Mean Estimation in Stochastic Continuous Monte-Carlo Tree Search (ICML 2025)**
+  - Tuan Dam
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search (ICML 2025)**
+  - Boyan Li, Jiayi Zhang, Ju Fan, Yanwei Xu, Chong Chen, Nan Tang, Yuyu Luo
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Policy Guided Tree Search for Enhanced LLM Reasoning (ICML 2025)**
+  - Yang Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search (ICML 2025)**
+  - Haoran Luo, Haihong E, Yikai Guo, Qika Lin, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, Yifan Zhu, Anh Tuan Luu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design (ICML 2025)**
+  - Zhi Zheng, Zhuoliang Xie, Zhenkun Wang, Bryan Hooi
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Language Models as Implicit Tree Search (ICML 2025)**
+  - Ziliang Chen, Zhao-Rong Lai, Yufeng Yang, Liangda Fang, Zhanfu Yang, Liang Lin
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **SRA-MCTS: Self-driven Reasoning Augmentation with Monte Carlo Tree Search for Code Generation (IJCAI 2025)**
+  - Bin Xu, Yiguan Lin, Yinghao Li, Yang Gao
+  - [[Paper]]( )
+  - [[Code]]( )
+
+## 2024
+- **Tree Search-Based Evolutionary Bandits for Protein Sequence Optimization (AAAI 2024)**
+  - Jiahao Qiu, Hui Yuan, Jinghong Zhang, Wentao Chen, Huazheng Wang, Mengdi Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Decentralized Monte Carlo Tree Search for Partially Observable Multi-Agent Pathfinding (AAAI 2024)**
+  - Alexey Skrynnik, Anton Andreychuk, Konstantin S. Yakovlev, Aleksandr Panov
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Monte Carlo Tree Search in the Presence of Transition Uncertainty (AAAI 2024)**
+  - Farnaz Kohankhaki, Kiarash Aghakasiri, Hongming Zhang, Ting-Han Wei, Chao Gao, Martin Müller
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Temporal Logic Explanations for Dynamic Decision Systems Using Anchors and Monte Carlo Tree Search %28Abstract Reprint%29 (AAAI 2024)**
+  - Tzu-Yi Chiu, Jerome Le Ny, Jean-Pierre David
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Tree Search-Based Policy Optimization under Stochastic Execution Delay (ICLR 2024)**
+  - David Valensi, Esther Derman, Shie Mannor, Gal Dalal
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Reinforcement Learning within Tree Search for Fast Macro Placement (ICML 2024)**
+  - Zijie Geng, Jie Wang, Ziyan Liu, Siyuan Xu, Zhentao Tang, Mingxuan Yuan, Jianye Hao, Yongdong Zhang, Feng Wu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Provably Efficient Long-Horizon Exploration in Monte Carlo Tree Search through State Occupancy Regularization (ICML 2024)**
+  - Liam Schramm, Abdeslam Boularias
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Language Agent Tree Search Unifies Reasoning%2C Acting%2C and Planning in Language Models (ICML 2024)**
+  - Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Layered and Staged Monte Carlo Tree Search for SMT Strategy Synthesis (IJCAI 2024)**
+  - Zhengyang Lu, Stefan Siemer, Piyush Jha, Joel D. Day, Florin Manea, Vijay Ganesh
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Monte Carlo Tree Search based Space Transfer for Black Box Optimization (NIPS 2024)**
+  - Shukuan Wang, Ke Xue, Song Lei, Xiaobin Huang, Chao Qian
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search (NIPS 2024)**
+  - Nicola Dainese, Matteo Merler, Minttu Alakuijala, Pekka Marttinen
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ReST-MCTS%2A: LLM Self-Training via Process Reward Guided Tree Search (NIPS 2024)**
+  - Dan Zhang, Sining Zhoubian, Ziniu Hu, Yisong Yue, Yuxiao Dong, Jie Tang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Speculative Monte-Carlo Tree Search (NIPS 2024)**
+  - Scott Cheng, Mahmut T. Kandemir, Ding-Yong Hong
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Power Mean Estimation in Stochastic Monte-Carlo Tree Search (UAI 2024)**
+  - Tuan Dam, Odalric-Ambrym Maillard, Emilie Kaufmann
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Efficient Monte Carlo Tree Search via On-the-Fly State-Conditioned Action Abstraction (UAI 2024)**
+  - Yunhyeok Kwak, Inwoo Hwang, Dooyoung Kim, Sanghack Lee, Byoung-Tak Zhang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Hybrid CtrlFormer: Learning Adaptive Search Space Partition for Hybrid Action Control via Transformer-based Monte Carlo Tree Search (UAI 2024)**
+  - Jiashun Liu, Xiaotian Hao, Jianye Hao, Yan Zheng, Yujing Hu, Changjie Fan, Tangjie Lv, Zhipeng Hu
+  - [[Paper]]( )
+  - [[Code]]( )
+
 ## 2023
+- **AlphaRoute: Large-Scale Coordinated Route Planning via Monte Carlo Tree Search (AAAI 2023)**
+  - Guiyang Luo, Yantao Wang, Hui Zhang, Quan Yuan, Jinglin Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
 - **Symbolic Physics Learner: Discovering governing equations via Monte Carlo tree search (ICLR 2023)**
   - Fangzheng Sun, Yang Liu, Jian-Xun Wang, Hao Sun
-  - [[Paper]](https://arxiv.org/abs/2205.13134)
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **NuTrea: Neural Tree Search for Context-guided Multi-hop KGQA (NIPS 2023)**
+  - Hyeong Kyu Choi, Seunghun Lee, Jaewon Chu, Hyunwoo J. Kim
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenarios (NIPS 2023)**
+  - Yazhe Niu, Yuan Pu, Zhenjie Yang, Xueyan Li, Tong Zhou, Jiyuan Ren, Shuai Hu, Hongsheng Li, Yu Liu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Accelerating Monte Carlo Tree Search with Probability Tree State Abstraction (NIPS 2023)**
+  - Yangqing Fu, Ming Sun, Buqing Nie, Yue Gao
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Monte Carlo Tree Search with Boltzmann Exploration (NIPS 2023)**
+  - Michael Painter, Mohamed Baioumy, Nick Hawes, Bruno Lacerda
+  - [[Paper]]( )
+  - [[Code]]( )
 
 ## 2022
 - **Finding Backdoors to Integer Programs: A Monte Carlo Tree Search Framework (AAAI 2022)**
@@ -71,6 +289,21 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 - **Anytime Capacity Expansion in Medical Residency Match by Monte Carlo Tree Search (IJCAI 2022)**
   - Kenshi Abe, Junpei Komiyama, Atsushi Iwasaki
   - [[Paper]](https://www.ijcai.org/proceedings/2022/1)
+ 
+- **Latent Planning via Expansive Tree Search (NIPS 2022)**
+  - Robert Gieselmann, Florian T. Pokorny
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Monte Carlo Tree Search based Variable Selection for High Dimensional Bayesian Optimization (NIPS 2022)**
+  - Lei Song, Ke Xue, Xiaobin Huang, Chao Qian
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Optimistic Tree Searches for Combinatorial Black-Box Optimization (NIPS 2022)**
+  - Cédric Malherbe, Antoine Grosnit, Rasul Tutunov, Haitham Bou-Ammar, Jun Wang
+  - [[Paper]]( )
+  - [[Code]]( )
 
 - **Fast and Accurate User Cold-Start Learning Using Monte Carlo Tree Search (RECSYS 2022)**
   - Dilina Chandika Rajapakse, Douglas Leith
